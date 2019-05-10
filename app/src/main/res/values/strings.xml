@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StylingTextView_Snackbar</string>
+    <string name="heading_instagram">Instagram</string>
+    <string name="heading_github">Github</string>
+    <string name="heading_slack">Slack</string>
+
+    <string name="url_text_instagram">www.instagram.com/amansharma.dev</string>
+    <string name="url_text_github">www.github.com/amansharma-dev</string>
+
+    <string name="button_text">Snackbar</string>
+</resources>
